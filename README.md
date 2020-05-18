@@ -41,4 +41,4 @@ Contoh melakukan pemcarian menggunakan search bar : ![Search Bar](https://github
 
 **NOTE** 
 repository ini harus di jalankan dalam folder local directory `hellomvc`    
-
+Jika terjadi masalah pada `.htaccess`, sudah di sediakan `public.rar` yang menyimpan file `.htacces` yang bisa di extract pada repo ini 
