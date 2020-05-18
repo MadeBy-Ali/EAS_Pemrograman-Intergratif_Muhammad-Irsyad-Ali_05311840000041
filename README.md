@@ -15,7 +15,7 @@ Fitur pada halaman ini digunakan user untuk memasukan data nama, jenis kelamin, 
 oleh user akan di handling oleh controller `home.php` `jenis.php` dan lainnya dan akan dimasukan kedalam SQL database "integratif" yang 
 nantinya akan ditampilkan pada halaman list donasi
 
-**Contoh I/O dan Screenshot**
+**Contoh I/O dan Screenshot**  
 Melakukan input Data : ![Input Data](https://github.com/irsyadali1/EAS_Pemrograman-Intergratif_Muhammad-Irsyad-Ali_05311840000041/blob/master/screenshot/input%20data%20halaman%20donasi.png)
 
 Contoh Sumbangan berhasil : ![Sumbangan Berhasil](https://github.com/irsyadali1/EAS_Pemrograman-Intergratif_Muhammad-Irsyad-Ali_05311840000041/blob/master/screenshot/contoh%20sumbangan%20berhasil.png)
@@ -34,12 +34,12 @@ Fitur pada halaman ini digunakan untuk melihat semua data dalam bentuk tabel yan
 ini akan menampilkan nama, jenis dan jumlah. Pada halaman ini juga terdepat beberapa sub feature pencarian, dan juga terdapat tabel yang 
 menampilkan dan mengkategorikan semua donasi yang telah di sumbangkan.
 
-**contoh I/O dan screenshot**
+**contoh I/O dan screenshot**  
 Contoh melakukan pencarian lewat tabel kategori : ![Kategori](https://github.com/irsyadali1/EAS_Pemrograman-Intergratif_Muhammad-Irsyad-Ali_05311840000041/blob/master/screenshot/contoh%20kategori.png)
 
 Contoh melakukan pemcarian menggunakan search bar : ![Search Bar](https://github.com/irsyadali1/EAS_Pemrograman-Intergratif_Muhammad-Irsyad-Ali_05311840000041/blob/master/screenshot/CONTOH%20search%20bar.png)
 
 
-**NOTE** 
+**NOTE**  
 repository ini harus di jalankan dalam folder local directory `hellomvc`    
 Jika terjadi masalah pada `.htaccess`, sudah di sediakan `public.rar` yang menyimpan file `.htacces` yang bisa di extract pada repo ini 
