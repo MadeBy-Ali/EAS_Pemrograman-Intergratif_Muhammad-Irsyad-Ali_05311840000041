@@ -16,7 +16,7 @@ oleh user akan di handling oleh controller `home.php` `jenis.php` dan lainnya da
 nantinya akan ditampilkan pada halaman list donasi
 
 **Contoh I/O dan Screenshot**
-Melakukan input Data : ![Image description](link-to-image)
+Melakukan input Data : ![Input Data](https://github.com/irsyadali1/EAS_Pemrograman-Intergratif_Muhammad-Irsyad-Ali_05311840000041/blob/master/screenshot/input%20data%20halaman%20donasi.png)
 
 Contoh Sumbangan berhasil : ![Image description](link-to-image)
 
