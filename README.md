@@ -1,7 +1,7 @@
-# EAS_Pemrograman-Intergratif_Muhammad-Irsyad-Ali_05311840000041
-
 # Penjelasan Dan Test Case Penugasan EAS Pemrograman Integratif
------------------------------------------------------
+
+* Muhammad Irsyad Ali (05311840000041)
+----------------------------------------------------------------
 # A. Penjelasan Singkat Aplikasi
 Aplikasi ini adalah sebuah penerapan mvc yang dapat mendata dan mengelompokan item atau barang donasi dengan jumlah yang bisa lebih dari
 satu setiap melakukan donasi
