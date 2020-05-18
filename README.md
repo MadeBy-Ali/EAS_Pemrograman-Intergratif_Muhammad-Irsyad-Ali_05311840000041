@@ -10,7 +10,7 @@ satu setiap melakukan donasi
 
 **1. Halaman Donasi**  
 Pada halaman ini user bisa melakukan donasi dengan memasukan data dan item yang sesuai  
-**Penjelasan** 
+**Penjelasan**  
 Fitur pada halaman ini digunakan user untuk memasukan data nama, jenis kelamin, bentuk sumbangan dan jumlahnya. Data yang diinputkan 
 oleh user akan di handling oleh controller `home.php` `jenis.php` dan lainnya dan akan dimasukan kedalam SQL database "integratif" yang 
 nantinya akan ditampilkan pada halaman list donasi
@@ -29,6 +29,7 @@ Contoh error message jika jenis sumbangan kosong : ![Error Jenis Sumbangan](http
 
 
 **2. Halaman Donate List**  
+**Penjelasan**  
 Fitur pada halaman ini digunakan untuk melihat semua data dalam bentuk tabel yang telah dimasukkan oleh user pada halaman donasi, tabel 
 ini akan menampilkan nama, jenis dan jumlah. Pada halaman ini juga terdepat beberapa sub feature pencarian, dan juga terdapat tabel yang 
 menampilkan dan mengkategorikan semua donasi yang telah di sumbangkan.
