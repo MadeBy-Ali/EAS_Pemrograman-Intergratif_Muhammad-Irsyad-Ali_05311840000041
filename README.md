@@ -18,13 +18,13 @@ nantinya akan ditampilkan pada halaman list donasi
 **Contoh I/O dan Screenshot**
 Melakukan input Data : ![Input Data](https://github.com/irsyadali1/EAS_Pemrograman-Intergratif_Muhammad-Irsyad-Ali_05311840000041/blob/master/screenshot/input%20data%20halaman%20donasi.png)
 
-Contoh Sumbangan berhasil : ![Image description](link-to-image)
+Contoh Sumbangan berhasil : ![Sumbangan Berhasil](https://github.com/irsyadali1/EAS_Pemrograman-Intergratif_Muhammad-Irsyad-Ali_05311840000041/blob/master/screenshot/contoh%20sumbangan%20berhasil.png)
 
-Contoh error message jika nama kosong : ![Image description](link-to-image)
+Contoh error message jika nama kosong : ![Error Nama](https://github.com/irsyadali1/EAS_Pemrograman-Intergratif_Muhammad-Irsyad-Ali_05311840000041/blob/master/screenshot/contoh%20error%20nama%20kosong.png)
 
-Contoh error message jika jumlah sumbangan kosong : ![Image description](link-to-image)
+Contoh error message jika jumlah sumbangan kosong : ![Error Jumlah Sumbangan](https://github.com/irsyadali1/EAS_Pemrograman-Intergratif_Muhammad-Irsyad-Ali_05311840000041/blob/master/screenshot/contoh%20error%20jumlah%20sumbangan%20kosong.png)
 
-Contoh error message jika jenis sumbangan kosong : ![Image description](link-to-image)
+Contoh error message jika jenis sumbangan kosong : ![Error Jenis Sumbangan](https://github.com/irsyadali1/EAS_Pemrograman-Intergratif_Muhammad-Irsyad-Ali_05311840000041/blob/master/screenshot/contoh%20error%20jenis%20sumbangan%20kosong.png)
 
 
 
@@ -34,9 +34,9 @@ ini akan menampilkan nama, jenis dan jumlah. Pada halaman ini juga terdepat bebe
 menampilkan dan mengkategorikan semua donasi yang telah di sumbangkan.
 
 **contoh I/O dan screenshot**
-Contoh melakukan pencarian lewat tabel kategori : ![Image description](link-to-image)
+Contoh melakukan pencarian lewat tabel kategori : ![Kategori](https://github.com/irsyadali1/EAS_Pemrograman-Intergratif_Muhammad-Irsyad-Ali_05311840000041/blob/master/screenshot/contoh%20kategori.png)
 
-Contoh melakukan pemcarian menggunakan search bar : ![Image description](link-to-image)
+Contoh melakukan pemcarian menggunakan search bar : ![Search Bar](https://github.com/irsyadali1/EAS_Pemrograman-Intergratif_Muhammad-Irsyad-Ali_05311840000041/blob/master/screenshot/CONTOH%20search%20bar.png)
 
 
 **NOTE** 
